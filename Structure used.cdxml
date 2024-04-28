@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML
+ CreationProgram="ChemDraw 20.0.0.41"
+ Name="untitled.cdxml"
+ BoundingBox="95.78 32.70 398.77 60.60"
+ WindowPosition="0 0"
+ WindowSize="0 858980352"
+ WindowIsZoomed="yes"
+ FractionalWidths="yes"
+ InterpretChemically="yes"
+ ShowAtomQuery="yes"
+ ShowAtomStereo="no"
+ ShowAtomEnhancedStereo="yes"
+ ShowAtomNumber="no"
+ ShowResidueID="no"
+ ShowBondQuery="yes"
+ ShowBondRxn="yes"
+ ShowBondStereo="no"
+ ShowTerminalCarbonLabels="no"
+ ShowNonTerminalCarbonLabels="no"
+ HideImplicitHydrogens="no"
+ Magnification="500"
+ LabelFont="3"
+ LabelSize="6"
+ LabelFace="96"
+ CaptionFont="3"
+ CaptionSize="6"
+ CaptionFace="96"
+ HashSpacing="1.70"
+ MarginWidth="1.19"
+ LineWidth="0.60"
+ BoldWidth="1.56"
+ BondLength="10.80"
+ BondSpacing="18"
+ ChainAngle="120"
+ LabelJustification="Auto"
+ CaptionJustification="Left"
+ AminoAcidTermini="HOH"
+ ShowSequenceTermini="yes"
+ ShowSequenceBonds="yes"
+ ShowSequenceUnlinkedBranches="no"
+ ResidueWrapCount="40"
+ ResidueBlockCount="10"
+ ResidueZigZag="yes"
+ NumberResidueBlocks="no"
+ PrintMargins="50.88 55.84 50.88 55.84"
+ MacPrintInfo="00030000004800480000000002DE0240FFEEFFEE030602520367052803FC00020000004800480000000002DE0240000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000600000000000000000000100000000000000000000000000000000"
+ ChemPropName=""
+ ChemPropFormula="Chemical Formula: "
+ ChemPropExactMass="Exact Mass: "
+ ChemPropMolWt="Molecular Weight: "
+ ChemPropMOverZ="m/z: "
+ ChemPropAnalysis="Elemental Analysis: "
+ ChemPropBoilingPt="Boiling Point: "
+ ChemPropMeltingPt="Melting Point: "
+ ChemPropCritTemp="Critical Temp: "
+ ChemPropCritPres="Critical Pres: "
+ ChemPropCritVol="Critical Vol: "
+ ChemPropGibbs="Gibbs Energy: "
+ ChemPropLogP="Log P: "
+ ChemPropMR="MR: "
+ ChemPropHenry="Henry&apos;s Law: "
+ ChemPropEForm="Heat of Form: "
+ ChemProptPSA="tPSA: "
+ ChemPropCLogP="CLogP: "
+ ChemPropCMR="CMR: "
+ ChemPropLogS="LogS: "
+ ChemPropPKa="pKa: "
+ ChemPropID=""
+ ChemPropFragmentLabel=""
+ color="0"
+ bgcolor="1"
+ RxnAutonumberStart="1"
+ RxnAutonumberConditions="no"
+ RxnAutonumberStyle="Roman"
+ RxnAutonumberFormat="(#)"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+<color r="0.0745" g="0.0745" b="0.0745"/>
+<color r="0.7294" g="0.0510" b="0.1255"/>
+<color r="0.9608" g="0.7490" b="0.3686"/>
+<color r="0" g="0.4431" b="0.2039"/>
+<color r="0" g="0.4549" b="0.5373"/>
+<color r="0.0039" g="0.1647" b="0.3451"/>
+<color r="0.3451" g="0.2980" b="0.5098"/>
+<color r="0.4000" g="0.4000" b="1"/>
+<color r="0.7961" g="0.9020" b="1"/>
+<color r="0.9333" g="0.8667" b="0.9333"/>
+<color r="1" g="0" b="1"/>
+<color r="0.2431" g="0.5255" b="0.4039"/>
+<color r="0.7529" g="0.7529" b="0.7529"/>
+<color r="0.9216" g="0.9216" b="0.9216"/>
+<color r="0.5020" g="0" b="0.5020"/>
+</colortable><fonttable>
+<font id="3" charset="iso-8859-1" name="Arial"/>
+</fonttable><page
+ id="113306"
+ BoundingBox="0 0 510.24 680.31"
+ HeaderPosition="36"
+ FooterPosition="36"
+ PrintTrimMarks="yes"
+ HeightPages="1"
+ WidthPages="1"
+><fragment
+ id="113254"
+ BoundingBox="158.90 41.70 169.67 58.16"
+ Z="14"
+><n
+ id="113253"
+ p="160.02 57.90"
+ Z="13"
+ AS="N"
+/><n
+ id="113255"
+ p="169.37 52.50"
+ Z="15"
+ AS="N"
+/><n
+ id="113257"
+ p="169.37 41.70"
+ Z="17"
+ AS="N"
+/><b
+ id="113256"
+ Z="16"
+ B="113253"
+ E="113255"
+ Order="2"
+ BS="N"
+/><b
+ id="113258"
+ Z="18"
+ B="113255"
+ E="113257"
+ BS="N"
+/></fragment><fragment
+ id="113260"
+ BoundingBox="203.10 41 222.25 57.54"
+ Z="20"
+><n
+ id="113259"
+ p="212.60 57.20"
+ Z="19"
+ AS="N"
+/><n
+ id="113261"
+ p="221.95 51.80"
+ Z="21"
+ AS="N"
+/><n
+ id="113271"
+ p="221.95 41"
+ Z="31"
+ AS="N"
+/><n
+ id="113273"
+ p="203.25 51.80"
+ Z="33"
+ AS="N"
+/><b
+ id="113262"
+ Z="22"
+ B="113259"
+ E="113261"
+ Order="2"
+ BS="Z"
+ BondCircularOrdering="113274 0 0 113272"
+/><b
+ id="113272"
+ Z="32"
+ B="113261"
+ E="113271"
+ BS="N"
+/><b
+ id="113274"
+ Z="34"
+ B="113259"
+ E="113273"
+ BS="N"
+/></fragment><fragment
+ id="113264"
+ BoundingBox="256.58 40.20 276.07 57.50"
+ Z="24"
+><n
+ id="113263"
+ p="257.22 56.40"
+ Z="23"
+ AS="N"
+/><n
+ id="113265"
+ p="266.57 51"
+ Z="25"
+ AS="N"
+/><n
+ id="113275"
+ p="266.57 40.20"
+ Z="35"
+ AS="N"
+/><n
+ id="113277"
+ p="275.92 56.40"
+ Z="37"
+ AS="N"
+/><b
+ id="113266"
+ Z="26"
+ B="113263"
+ E="113265"
+ Order="2"
+ BS="N"
+/><b
+ id="113276"
+ Z="36"
+ B="113265"
+ E="113275"
+ BS="N"
+/><b
+ id="113278"
+ Z="38"
+ B="113265"
+ E="113277"
+ BS="N"
+/></fragment><fragment
+ id="113268"
+ BoundingBox="302.32 33.60 321.47 60.60"
+ Z="28"
+><n
+ id="113267"
+ p="311.82 49.80"
+ Z="27"
+ AS="N"
+/><n
+ id="113269"
+ p="321.17 44.40"
+ Z="29"
+ AS="N"
+/><n
+ id="113279"
+ p="311.82 60.60"
+ Z="39"
+ AS="N"
+/><n
+ id="113281"
+ p="302.47 44.40"
+ Z="41"
+ AS="N"
+/><n
+ id="113283"
+ p="321.17 33.60"
+ Z="43"
+ AS="N"
+/><b
+ id="113270"
+ Z="30"
+ B="113267"
+ E="113269"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="113282 113280 0 113284"
+/><b
+ id="113280"
+ Z="40"
+ B="113267"
+ E="113279"
+ BS="N"
+/><b
+ id="113282"
+ Z="42"
+ B="113267"
+ E="113281"
+ BS="N"
+/><b
+ id="113284"
+ Z="44"
+ B="113269"
+ E="113283"
+ BS="N"
+/></fragment><fragment
+ id="113290"
+ BoundingBox="370.42 32.70 398.77 59.70"
+ Z="50"
+><n
+ id="113289"
+ p="379.92 48.90"
+ Z="49"
+ AS="N"
+/><n
+ id="113291"
+ p="389.27 43.50"
+ Z="51"
+ AS="N"
+/><n
+ id="113293"
+ p="379.92 59.70"
+ Z="53"
+ AS="N"
+/><n
+ id="113295"
+ p="370.57 43.50"
+ Z="55"
+ AS="N"
+/><n
+ id="113297"
+ p="389.27 32.70"
+ Z="57"
+ AS="N"
+/><n
+ id="113299"
+ p="398.62 48.90"
+ Z="59"
+ AS="N"
+/><b
+ id="113292"
+ Z="52"
+ B="113289"
+ E="113291"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="113296 113294 113300 113298"
+/><b
+ id="113294"
+ Z="54"
+ B="113289"
+ E="113293"
+ BS="N"
+/><b
+ id="113296"
+ Z="56"
+ B="113289"
+ E="113295"
+ BS="N"
+/><b
+ id="113298"
+ Z="58"
+ B="113291"
+ E="113297"
+ BS="N"
+/><b
+ id="113300"
+ Z="60"
+ B="113291"
+ E="113299"
+ BS="N"
+/></fragment><fragment
+ id="113302"
+ BoundingBox="95.78 48.10 106.40 55.70"
+ Z="62"
+><n
+ id="113301"
+ p="96.42 54.60"
+ Z="61"
+ AS="N"
+/><n
+ id="113303"
+ p="105.77 49.20"
+ Z="63"
+ AS="N"
+/><b
+ id="113304"
+ Z="64"
+ B="113301"
+ E="113303"
+ Order="2"
+ BS="N"
+/></fragment></page></CDXML>
